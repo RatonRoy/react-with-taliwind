@@ -1,0 +1,10 @@
+.heder-info{
+	background-color: rgb(227, 243, 81);
+	padding: 1rem 4rem;
+}
+.title{
+	text-align: center;
+	text-transform: capitalize;
+	font-size: 2rem;
+	letter-spacing: 0.2rem;
+}

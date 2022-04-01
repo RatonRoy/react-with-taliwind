@@ -1,0 +1,12 @@
+.pricing-container{
+	background-color: #ede0d4;
+	padding: 2rem 4rem;
+}
+.pricing-item{
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	grid-gap: 2rem;
+	/* margin-left: 3rem; */
+	margin-top: 2rem;
+	/* background-color: red; */
+}
